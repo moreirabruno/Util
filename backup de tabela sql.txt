@@ -1,0 +1,4 @@
+Backup da tabela com os dados:
+select * 
+Into tbSeminario_bkp
+from tbSeminario
